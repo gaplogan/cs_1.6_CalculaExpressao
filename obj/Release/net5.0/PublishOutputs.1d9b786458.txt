@@ -1,0 +1,5 @@
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\publish\cs_1.6_CalculaExpressao.exe
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\publish\cs_1.6_CalculaExpressao.dll
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\publish\cs_1.6_CalculaExpressao.deps.json
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\publish\cs_1.6_CalculaExpressao.runtimeconfig.json
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\publish\cs_1.6_CalculaExpressao.pdb

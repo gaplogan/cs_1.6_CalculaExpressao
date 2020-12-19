@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\cs_1.6_CalculaExpressao.exe
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\cs_1.6_CalculaExpressao.deps.json
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\cs_1.6_CalculaExpressao.runtimeconfig.json
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\cs_1.6_CalculaExpressao.runtimeconfig.dev.json
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\cs_1.6_CalculaExpressao.dll
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\ref\cs_1.6_CalculaExpressao.dll
+E:\GitHub\cs_1.6_CalculaExpressao\bin\Release\net5.0\cs_1.6_CalculaExpressao.pdb
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.csprojAssemblyReference.cache
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.AssemblyInfo.cs
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.dll
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\ref\cs_1.6_CalculaExpressao.dll
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.pdb
+E:\GitHub\cs_1.6_CalculaExpressao\obj\Release\net5.0\cs_1.6_CalculaExpressao.genruntimeconfig.cache
