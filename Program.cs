@@ -32,7 +32,7 @@ namespace cs_1._6_CalculaExpressao
             Console.WriteLine(); //salta linha
             
             // {Apresenta o resultado}
-            Console.WriteLine($"{A} - {B} * {C} + {D}² / {F} = {R}");
+            Console.WriteLine($"{A} - {B} * ({C} + {D}²) / {F} = {R}");
         }
     }
 }
